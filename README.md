@@ -111,3 +111,8 @@ los pagos y lainformación del cliente.
 
 [Modelo entidad relacion](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_dos/Modelo_ER.PNG).
 
+1. ## Entidades:
+- Cliente: 
+--fhfghfghf
+
+
