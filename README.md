@@ -105,3 +105,9 @@ los pagos y lainformación del cliente.
 
 ● Incluir un manual de usuario accesible al cliente y de fácil entendimiento.
 
+
+
+# Modelo entidad relacion:
+
+[Modelo entidad relacion](https://web.whatsapp.com/#).
+
