@@ -48,7 +48,7 @@ del pago.
 
 La página contará con:
 
- Registro de clientes (nombre, cédula, teléfono, email, dirección - ciudad).
+ Registro de clientes (nombre, cédula, teléfono, email, dirección, ciudad, departamento y contraseña).
 - Visualizar las ediciones de las revista modo libro (solo a los que ya estén registrados y hayan pagado el plan básico o premium).
 - Registro de un solo administrador (nombre completo, contraseña).
 - Simulación de pago online (Stripe) cuando el cliente esté registrado.
