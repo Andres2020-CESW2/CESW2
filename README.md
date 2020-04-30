@@ -117,5 +117,5 @@ los pagos y lainformación del cliente.
 
 # Diagrama de Clases(UML):
 
-[Diagrama de Clases(UML)](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_dos/Diagrama_UML.pdf).
+[Diagrama de Clases(UML)](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_dos/Diagrama_UML.pdf)
 
