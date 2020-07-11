@@ -113,6 +113,6 @@ los pagos y lainformación del cliente.
 
 # DG BD: 
 
-[Diagrama base de datos](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_tres/Diagrama BD.jpg)
+[Diagrama base de datos](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_tres/Diagrama_BD.jpg)
 
 
