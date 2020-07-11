@@ -99,10 +99,17 @@ los pagos y lainformación del cliente.
 
 [Modelo entidad relacion](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_dos/Modelo_ER.PNG).
 
-# Modelo Wireframe:
+# Modelo Wireframe (prototipo):
 
 [Modelo Wireframe en Figma](https://www.figma.com/file/o6kKWvFzo36c6IBNFLV6uS/REVISTA-CABALLISTAS---PROTOTIPO?node-id=0%3A1).
 
 # Diagrama de Clases(UML):
 
 [Diagrama de Clases(UML)](https://raw.githubusercontent.com/Andres2020-CESW2/CESW2/informe_dos/Diagrama_UML.png)
+
+# EndPoint Frontend: 
+
+[FrontEnd](https://revistacaballistas.vercel.app/)
+
+
+
