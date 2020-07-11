@@ -111,5 +111,8 @@ los pagos y lainformación del cliente.
 
 [FrontEnd](https://revistacaballistas.vercel.app/)
 
+# DG BD: 
+
+[Diagrama base de datos](blob:https://web.whatsapp.com/b206bb0f-bd24-40cd-8617-721382b7e019)
 
 
